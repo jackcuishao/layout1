@@ -1,0 +1,21 @@
+{
+  "name": "layout1",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "moment": "^2.15.1",
+    "react": "15.3.2",
+    "react-native": "^0.34.1",
+    "react-native-country-picker-modal": "^0.2.7",
+    "react-native-custom-action-sheet": "0.0.11",
+    "react-native-easy-toast": "^1.0.2",
+    "react-native-vector-icons": "^2.1.0",
+    "react-native-viewpager": "^0.2.12",
+    "react-redux": "^4.4.5",
+    "redux": "^3.6.0",
+    "redux-thunk": "^2.1.0"
+  }
+}
